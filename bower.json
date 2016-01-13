@@ -1,0 +1,29 @@
+{
+  "name": "taaabs-window-scale-fix",
+  "version": "1.0.0",
+  "description": "`<taaabs-window-scale-fix>`.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-window-scale-fix.git"
+  },
+  "main": "taaabs-window-scale-fix.html",
+  "license": "https://github.com/TaaabsElements/taaabs-window-scale-fix/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git",
+    "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-lazy-loading-behavior.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
