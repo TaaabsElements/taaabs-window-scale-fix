@@ -18,7 +18,6 @@
   "license": "https://github.com/TaaabsElements/taaabs-window-scale-fix/LICENSE",
   "dependencies": {
     "polymer": "polymer/polymer#^1.0.0",
-    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git",
     "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-lazy-loading-behavior.git"
   },
   "devDependencies": {
